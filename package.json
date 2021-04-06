@@ -1,0 +1,14 @@
+{
+  "name": "npmpack",
+  "version": "1.0.0",
+  "description": "有趣的前端轮子，持续更新中...",
+  "main": "index.js",
+  "repository": "git@github.com:bruthlee/npmpack.git",
+  "author": "bruthlee",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "color": "^3.1.3",
+    "uuidjs": "^4.2.8"
+  }
+}
