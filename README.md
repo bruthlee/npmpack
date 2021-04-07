@@ -3,6 +3,8 @@
 ## bignumber.js
 > 数组转换、格式化显示，包括整数、小数
 
+![转换](./img/bignumberJS.png)
+
 > 官网: https://mikemcl.github.io/bignumber.js/
 
 
