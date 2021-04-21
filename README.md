@@ -66,3 +66,9 @@
 > 生成UUID
 
 > github.com/LiosK/UUID.js
+
+
+## marked
+> 一款好用的轻量级Markdown预览组件
+
+> https://marked.js.org/
